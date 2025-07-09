@@ -18,28 +18,6 @@
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/raees_mohit" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://linkedin.com/in/mohitd." target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://medium.com/mohitrdamke" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.youtube.com/c/raeesmohit01" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" />
-  </a>
-</p>
-
-
----
-
 ### 🛠️ Languages & Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
