@@ -74,26 +74,6 @@ object MohitDamke : AndroidDeveloper {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:FF2E97&height=3&section=header" width="100%" alt="divider" />
 
-## 🏆 &nbsp;Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohitdamke&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:FF2E97&height=3&section=header" width="100%" alt="divider" />
-
-## 📈 &nbsp;Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitdamke&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D1FF&line=7B2FF7&point=FF2E97" alt="activity graph" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:FF2E97&height=3&section=header" width="100%" alt="divider" />
-
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
