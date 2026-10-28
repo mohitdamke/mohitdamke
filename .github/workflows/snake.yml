@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
